@@ -80,7 +80,7 @@ public class GameManager : MonoBehaviour
     }
     public void CheckPrice()
     {
-        stackUpgradePrice = PlayerPrefs.GetInt("stackUpgrade");
+        stackUpgradePrice = PlayerPrefs.GetInt("stackUpgradePrice");
         stackPrice.text = stackUpgradePrice.ToString();
         currencyAmount = PlayerPrefs.GetInt("currency");
         currencyText.text = currencyAmount.ToString();
