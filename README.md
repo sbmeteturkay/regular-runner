@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/44952253/180046181-32587325-6f60-4d7a-ac27-16e369cf50f9.mp4
+
 /* Hey there! This is Zerosum's Case Project
  * 
  * It's about creating a stacking runner project using given assets.
